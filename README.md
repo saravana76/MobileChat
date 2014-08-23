@@ -1,4 +1,4 @@
-faces
+MobileChat
 =====
 
-Face Memorization game based on google spreadsheet json feed data
+Mobile Chat window.
